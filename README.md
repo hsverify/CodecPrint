@@ -155,7 +155,7 @@ We benchmark against a held-out test set of 500 tracks (100 per codec) re-encode
 pip install codecprint
 
 # From source
-git clone https://github.com/humanstandard/codecprint.git
+git clone https://github.com/hsverify/codecprint.git
 cd codecprint
 pip install -e .
 ```
@@ -183,7 +183,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 CodecPrint is available under a **non-commercial license**. Free for academic research, independent artists, non-profit organizations, and personal use.
 
-Commercial use (including integration into paid products or services) requires a license from HumanStandard. Contact **enterprise@humanstandard.ai**.
+Commercial use (including integration into paid products or services) requires a license from HumanStandard. Contact **enterprise@jobsbyhumans.com**.
 
 See [LICENSE](LICENSE) for full terms.
 
@@ -195,7 +195,7 @@ CodecPrint identifies codec artifacts — one forensic signal among many. If you
 - **Forensic Stem Analysis** — per-stem human vs. AI involvement scoring
 - **Platform Integration** — high-throughput streaming API for distributors, DSPs, and labels
 
-Learn more at [humanstandard.ai](https://humanstandard.ai) or contact **enterprise@humanstandard.ai**.
+Learn more at [hsverify.com](https://hsverify.com) or contact **enterprise@jobsbyhumans.com**.
 
 ## Citation
 
@@ -204,10 +204,10 @@ Learn more at [humanstandard.ai](https://humanstandard.ai) or contact **enterpri
   title={CodecPrint: Neural Audio Codec Forensics},
   author={HumanStandard},
   year={2026},
-  url={https://github.com/humanstandard/codecprint}
+  url={https://github.com/hsverify/codecprint}
 }
 ```
 
 ## About
 
-Built by [HumanStandard](https://humanstandard.ai). We build audio forensics and detection technology to protect human creativity at scale. Our tools analyze audio — they never generate it.
+Built by [HumanStandard](https://hsverify.com). We build audio forensics and detection technology to protect human creativity at scale. Our tools analyze audio — they never generate it.
